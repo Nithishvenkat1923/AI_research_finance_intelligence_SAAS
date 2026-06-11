@@ -7,7 +7,7 @@ This system combines **LLM agents, financial APIs, knowledge ingestion, authenti
 
 ---
 
-Built by  <h1>Md Shakil</h1>
+Built by  <h1>Nithish Venket</h1>
 Focused on scalable systems, AI agents & production-grade architectures.
 
 
